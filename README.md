@@ -10,7 +10,8 @@
 
 ### Entidade Relacionamento ![Entidade Relacionamento](https://user-images.githubusercontent.com/75703602/115120855-fd0ebb80-9f85-11eb-976b-dc2b1195c69c.png)
 
-### Diagramas de Classes ![Diagrama UML](https://user-images.githubusercontent.com/75703602/115169605-e5722880-a094-11eb-9524-4a5fad999903.jpeg)
+### Diagramas de Classes ![Diagrama UML(1)](https://user-images.githubusercontent.com/75703602/116765845-ae3d3900-a9fd-11eb-936a-dbe2fdf72c80.jpeg)
+
 
 ### Requisitos necessários para a execução
 - Instalar PHP : Versão 7 ou superior
@@ -22,3 +23,7 @@
 - Criar uma porta de conexão do servidor Apache
 - Acessar a porta no navegador(Ex: Localhost)
 
+### Observações
+ <p>Devido a falta de tempo, não foi possível implementar corretamente o Factory Method. Entretanto, adicionamos um código exemplo do que seria feito, além de de ter desenhado o diagrama do padrão implementado(no cadastro de usuários).</p>
+
+Link da implementação do modelo: https://paiza.io/projects/S0yeGwzbGwgz9gsYDjzcPA
